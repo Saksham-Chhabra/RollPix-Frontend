@@ -1,0 +1,13 @@
+.home {
+  height: 100vh;
+  background-color: #fdf2e9;
+  overflow: hidden;
+}
+
+.homeContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
